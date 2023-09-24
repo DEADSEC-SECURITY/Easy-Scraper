@@ -45,4 +45,4 @@ w3lib==1.22.0
 websockets==9.1
 Werkzeug==2.2.3
 wsproto==1.0.0
-zipp==3.6.0
+zipp==3.17.0
