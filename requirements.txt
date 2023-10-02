@@ -24,7 +24,7 @@ lxml==4.9.3
 Mako==1.2.2
 MarkupSafe==2.0.1
 outcome==1.2.0
-parse==1.19.0
+parse==1.19.1
 pycparser==2.21
 pyee==8.2.2
 pyOpenSSL==21.0.0
