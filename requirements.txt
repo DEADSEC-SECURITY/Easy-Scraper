@@ -12,7 +12,7 @@ cryptography==41.0.4
 cssselect==1.2.0
 Flask==2.3.2
 Flask-Migrate==4.0.5
-Flask-SQLAlchemy==2.5.1
+Flask-SQLAlchemy==3.1.1
 greenlet==2.0.2
 h11==0.14.0
 idna==3.3
