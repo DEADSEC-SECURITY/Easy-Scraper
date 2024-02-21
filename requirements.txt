@@ -39,7 +39,7 @@ soupsieve==2.3
 SQLAlchemy==1.4.26
 tqdm==4.62.3
 trio==0.19.0
-trio-websocket==0.10.4
+trio-websocket==0.11.1
 urllib3==1.26.18
 w3lib==1.22.0
 websockets==9.1
